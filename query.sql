@@ -12,7 +12,7 @@ where
 order by date_time asc
 
 -- Get the data for a specific key
-select commit_at as "date_time", 
+select datetime(commit_at) as "date_time", 
         iv.key, 
         iv.Queue_WaitDisplay,
         iv.Queue_QueueLength,
@@ -28,7 +28,7 @@ order by date_time asc
 
 
 -- Get the data for a specific day
-select commit_at as "date_time", 
+select datetime(commit_at) as "date_time", 
         iv.key, 
         iv.Queue_WaitDisplay,
         iv.Queue_QueueLength,
@@ -40,5 +40,9 @@ from
 where 
     iv._commit = c.id and
     iv.key = "T1IM" and
-    date_time = "2023-01-25%"
+    date(date_time) = "2023-01-25"
 
+-- Get the Domestic Airline specific data
+
+
+-- Get the Intl Airline specific data 
