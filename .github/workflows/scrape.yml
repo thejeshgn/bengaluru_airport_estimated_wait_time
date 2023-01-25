@@ -1,4 +1,4 @@
-name: Scrape latest electricity data
+name: Scrape latest wait time data
 
 on:
   push:
