@@ -15,7 +15,9 @@ jobs:
       run: |-
         curl https://gateway.bengaluruairport.com/fis/v2/api/qms/status > status.json
 
-
+    - name: Pull Remote Changes
+      run: git pull
+  
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
