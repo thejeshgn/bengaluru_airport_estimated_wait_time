@@ -11,7 +11,7 @@ where
     iv._commit = c.id
 order by date_time asc
 
--- Get the data for a specific key
+-- Get the data for a specific key - T1IS - international security
 select datetime(commit_at) as "date_time", 
         iv.key, 
         iv.Queue_WaitDisplay,
@@ -23,7 +23,7 @@ from
     commits as c
 where 
     iv._commit = c.id and
-    iv.key = "T1IM"
+    iv.key = "T1IS"
 order by date_time asc
 
 

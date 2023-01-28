@@ -2,6 +2,7 @@
 
 - Source: [Bengaluru Airport - Estimated Wait Time](https://www.bengaluruairport.com/travellers/at-the-airport/estimatedWaitTime)
 - Contact: [Thejesh GN](https://thejeshgn.com/contact)
+- Details and blog: [Bengaluru Airport (KIA) Estimated Wait Time Data](https://thejeshgn.com/2023/01/28/bengaluru-airport-kia-estimated-wait-time-data/)
 - CCBYSA
 
 ## Columns
