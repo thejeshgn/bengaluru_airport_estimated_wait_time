@@ -1,5 +1,5 @@
 # Remove the DB
-rm status.db
+#rm status.db
 
 # Create DB
 git-history file status.db status.json \
@@ -7,9 +7,17 @@ git-history file status.db status.json \
 --full-versions \
 --id key \
 --convert '
-response_data = json.loads(content)
-data = response_data["data"]
-keys = data.keys()
+data = {}
+keys = []
+try:
+    response_data = json.loads(content)
+    data = response_data["data"]
+    keys = data.keys()
+except Exception as err:
+  #print(err.message);
+  data = {}
+  keys = []
+
 for key in keys:
     event = {}
     #print(key)
