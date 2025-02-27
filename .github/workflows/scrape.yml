@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Fetch latest estimated wait time.
       run: |-
-        curl https://gateway.bengaluruairport.com/fis/v2/api/qms/status > status.json
+        curl 'https://gateway.bengaluruairport.com/fis/v2/api/qms/status' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.bengaluruairport.com/' -H 'Content-Type: application/json' -H 'Origin: https://www.bengaluruairport.com' > status.json
 
     - name: Pull Remote Changes
       run: git pull
