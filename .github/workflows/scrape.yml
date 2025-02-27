@@ -14,7 +14,9 @@ jobs:
     - name: Fetch latest estimated wait time.
       run: |-
         curl 'https://gateway.bengaluruairport.com/fis/v2/api/qms/status' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.bengaluruairport.com/' -H 'Content-Type: application/json' -H 'Origin: https://www.bengaluruairport.com' > status.json
-
+        curl 'https://gateway.bengaluruairport.com/fis/v2/api/qms/general?terminal=T2&flightType=D&' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.bengaluruairport.com/' -H 'Content-Type: application/json' -H 'Origin: https://www.bengaluruairport.com' > T2D.json
+        curl 'https://gateway.bengaluruairport.com/fis/v2/api/qms/general?terminal=T2&flightType=I&' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.bengaluruairport.com/' -H 'Content-Type: application/json' -H 'Origin: https://www.bengaluruairport.com' > T2I.json
+        curl 'https://gateway.bengaluruairport.com/fis/v2/api/qms/general?terminal=T1&flightType=D&' -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:135.0) Gecko/20100101 Firefox/135.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Referer: https://www.bengaluruairport.com/' -H 'Content-Type: application/json' -H 'Origin: https://www.bengaluruairport.com' > T1D.json
     - name: Pull Remote Changes
       run: git pull
   
