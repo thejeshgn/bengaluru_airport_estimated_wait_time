@@ -1,1 +1,6 @@
-{"data":{"waitTime":1200,"waitTimeNoOptionalCP":1200,"outliers":[{"sequence":3,"milestone":"Check In","queue":{"QueueLength":99999,"WaitDisplay":99999,"isOptional":false,"recommendation":[],"airlines":[]}}],"checkpoints":[{"sequence":1,"milestone":"Terminal Entrance","queue":{"QueueLength":7,"WaitDisplay":60,"isOptional":false,"recommendation":{"code":"Gate 1-4","reference":"T1DE_1-4,T1DE_5a-9-->T1DE_1-4","data":{"WaitDisplay":60},"name":"Gate 1-4"},"airlines":[]}},{"sequence":2,"milestone":"Walk","queue":{"QueueLength":-1,"WaitDisplay":300,"isOptional":false,"recommendation":[]}},{"sequence":3,"milestone":"Check In","queue":{"QueueLength":99999,"WaitDisplay":99999,"isOptional":false,"recommendation":[],"airlines":[]}},{"sequence":4,"milestone":"Walk","queue":{"QueueLength":-1,"WaitDisplay":300,"isOptional":false,"recommendation":[]}},{"sequence":5,"milestone":"Domestic Security","queue":{"QueueLength":4,"WaitDisplay":240,"isOptional":false,"recommendation":{"data":{"WaitDisplay":999999},"name":""},"airlines":[]}},{"sequence":6,"milestone":"Walk","queue":{"QueueLength":-1,"WaitDisplay":300,"isOptional":false,"recommendation":[]}}],"optionalCP":[]},"metadata":{"guidelines":{"50":"Moving Fast","60":"Moving Normal","999":"Moving Slow"}},"status":200,"type":"success","message":"Ok - General QMS"}
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
