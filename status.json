@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1IM":{},"T1VI":{},"T1DE_5a-9":{},"T1EM":{},"T1BD":{},"T1DE_5":{},"T1DE_1-4":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":16},"Error":{}},"T1DS Right 2023":{"Queue":{"QueueLength":0,"WaitDisplay":60,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{"QueueLength":0,"ProcessTime":0},"Error":{}},"T1IS":{"Queue":{"QueueLength":0,"WaitDisplay":0,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
