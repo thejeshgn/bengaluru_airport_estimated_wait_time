@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1CI_01-33":{},"T1CI_34-86":{},"T1IM":{},"T1BD":{"Queue":{"QueueLength":1,"WaitDisplay":60},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_1-4":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_5":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_5a-9":{"Queue":{"QueueLength":18,"WaitDisplay":180},"Desk":{"ProcessTime":0},"Error":{}},"T1EM":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1VI":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1IS":{"Queue":{"QueueLength":0,"WaitDisplay":0,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
