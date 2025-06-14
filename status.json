@@ -1,1 +1,6 @@
-{"data":{"T1CI_34-86":{},"T1CI_01-33":{},"T1IM":{"Queue":{"QueueLength":0,"WaitDisplay":120},"Desk":{"ProcessTime":0,"QueueLength":0},"Error":{}},"T1DE_5a-9":{"Queue":{"QueueLength":2,"WaitDisplay":120},"Desk":{"ProcessTime":30},"Error":{}},"T1EM":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1BD":{"Queue":{"QueueLength":3,"WaitDisplay":240},"Desk":{"ProcessTime":183},"Error":{}},"T1DE_5":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1VI":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_1-4":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DS Right 2023":{"Queue":{"QueueLength":1,"WaitDisplay":60,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{"QueueLength":0,"ProcessTime":43},"Error":{}},"T1DS_Left":{"Queue":{"QueueLength":1,"WaitDisplay":120,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{"QueueLength":1,"ProcessTime":17},"Error":{}},"T1IS":{"Queue":{"QueueLength":1,"WaitDisplay":120,"recommendation":{"bucket":"10","reference":"Lane 16-17","data":{"QueueId":"1002","QueueLength":"1","WaitB":"0","WaitF":"133","WaitDisplay":120,"Throughput":"0","ForwExits":"3649"},"code":"16-17"}},"Desk":{},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
+<html>
+<head><title>403 Forbidden</title></head>
+<body>
+<center><h1>403 Forbidden</h1></center>
+</body>
+</html>
