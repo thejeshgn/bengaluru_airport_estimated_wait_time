@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1CI_34-86":{},"T1CI_01-33":{},"T1IM":{"Queue":{"QueueLength":1,"WaitDisplay":120},"Desk":{"ProcessTime":0,"QueueLength":0},"Error":{}},"T1DE_1-4":{"Queue":{"QueueLength":2,"WaitDisplay":60},"Desk":{"ProcessTime":0},"Error":{}},"T1BD":{"Queue":{"QueueLength":1,"WaitDisplay":120},"Desk":{"ProcessTime":0},"Error":{}},"T1EM":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_5":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_5a-9":{"Queue":{"QueueLength":0,"WaitDisplay":60},"Desk":{"ProcessTime":29},"Error":{}},"T1VI":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1IS":{"Queue":{"QueueLength":3,"WaitDisplay":120,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{},"Error":{}},"T1DS_Left":{"Queue":{"QueueLength":2,"WaitDisplay":120,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{"QueueLength":4,"ProcessTime":22},"Error":{}},"T1DS Right 2023":{"Queue":{"QueueLength":6,"WaitDisplay":240,"recommendation":{"bucket":"8","reference":"Lane 11","data":{"QueueId":"2","QueueLength":"6","WaitB":"187","WaitF":"266","WaitDisplay":240,"Throughput":"54","ForwExits":"38692"},"code":"11"}},"Desk":{"QueueLength":4,"ProcessTime":44},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
