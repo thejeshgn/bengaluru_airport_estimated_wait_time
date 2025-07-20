@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1IM":{},"T1VI":{},"T1DE_1-4":{},"T1BD":{},"T1DE_5a-9":{},"T1EM":{},"T1DE_5":{},"Check In 01-33 WaitDisplay":{"6E":{"QueueLength":6,"WaitDisplay":0,"ProcessTime":null},"QP":{"QueueLength":1,"WaitDisplay":0,"ProcessTime":null}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
