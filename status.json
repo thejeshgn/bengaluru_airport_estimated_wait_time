@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1CI_34-86":{},"T1IM":{"Queue":{"QueueLength":0,"WaitDisplay":120},"Desk":{"ProcessTime":0,"QueueLength":0},"Error":{}},"T1DE_1-4":{"Queue":{"QueueLength":8,"WaitDisplay":60},"Desk":{"ProcessTime":0},"Error":{}},"T1DE_5a-9":{"Queue":{"QueueLength":22,"WaitDisplay":180},"Desk":{"ProcessTime":34},"Error":{}},"T1DE_5":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1VI":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1BD":{"Queue":{"QueueLength":8,"WaitDisplay":420},"Desk":{"ProcessTime":60},"Error":{}},"T1EM":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1IS":{"Queue":{"QueueLength":2,"WaitDisplay":120,"recommendation":{"data":{"WaitDisplay":999999}}},"Desk":{},"Error":{}},"T1DS Right 2023":{"Queue":{"QueueLength":56,"WaitDisplay":1020,"recommendation":{"bucket":"7","reference":"Lane 10","data":{"QueueId":"1","QueueLength":"24","WaitB":"248","WaitF":"363","WaitDisplay":360,"Throughput":"237","ForwExits":"1613"},"code":"10"}},"Desk":{"QueueLength":37,"ProcessTime":46},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
