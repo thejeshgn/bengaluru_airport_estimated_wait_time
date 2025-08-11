@@ -1,6 +1,1 @@
-<html>
-<head><title>403 Forbidden</title></head>
-<body>
-<center><h1>403 Forbidden</h1></center>
-</body>
-</html>
+{"data":{"T1CI_34-86":{},"T1IM":{},"T1DE_1-4":{},"T1DE_5":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1VI":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1EM":{"Queue":{"QueueLength":0,"WaitDisplay":0},"Desk":{"ProcessTime":0},"Error":{}},"T1BD":{"Queue":{"QueueLength":13,"WaitDisplay":420},"Desk":{"ProcessTime":61},"Error":{}},"T1DE_5a-9":{"Queue":{"QueueLength":18,"WaitDisplay":60},"Desk":{"ProcessTime":22},"Error":{}},"Check In 01-33 WaitDisplay":{"QP":{"QueueLength":71,"WaitDisplay":300,"ProcessTime":null},"6E":{"QueueLength":0,"WaitDisplay":0,"ProcessTime":null}},"T1IS":{"Queue":{"QueueLength":12,"WaitDisplay":660,"recommendation":{"bucket":"10","reference":"Lane 16-17","data":{"QueueId":"1002","QueueLength":"12","WaitB":"3","WaitF":"677","WaitDisplay":660,"Throughput":"0","ForwExits":"486"},"code":"16-17"}},"Desk":{},"Error":{}},"T1DS Right 2023":{"Queue":{"QueueLength":21,"WaitDisplay":360,"recommendation":{"bucket":"8","reference":"Lane 11","data":{"QueueId":"2","QueueLength":"13","WaitB":"221","WaitF":"349","WaitDisplay":360,"Throughput":"152","ForwExits":"28683"},"code":"11"}},"Desk":{"QueueLength":18,"ProcessTime":41},"Error":{}}},"metadata":{"units":{"QueueLength":"#","WaitDisplay":"seconds","ProcessTime":"seconds"}},"status":200,"type":"success","message":"Data Fetched Successfully"}
